@@ -22,7 +22,7 @@ A simple React app that allows users to search for albums and their details from
 ### Prerequisites
 
 - Node.js (version 14 or higher)
-- npm or yarn
+- npm
 
 ### 1. Clone the repository
 
