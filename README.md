@@ -1,4 +1,4 @@
-Github Pages: https://github.com/jwu7-bot/Album_Searcher
+Github Pages: https://jwu7-bot.github.io/Album_Searcher
 
 # Album Searcher React App
 
