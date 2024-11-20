@@ -28,3 +28,28 @@ A simple React app that allows users to search for albums and their details from
 
 ```bash
 git clone https://github.com/jwu7-bot/Album_Searcher.git
+```
+
+### Install dependencies
+Navigate to the project directory and run the following command to install the required dependencies:
+
+```bash
+cd album-searcher
+npm install
+```
+
+### Set up environment variables
+Create a .env file in the root directory of the project and add your Last.fm API key.
+
+```env
+REACT_APP_API_KEY=your-api-key-here
+```
+
+### Run the app
+Start the development server:
+
+```bash
+npm start
+```
+
+
