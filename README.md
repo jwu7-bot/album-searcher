@@ -24,7 +24,7 @@ A simple React app that allows users to search for albums and their details from
 - Node.js (version 14 or higher)
 - npm
 
-### 1. Clone the repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/jwu7-bot/Album_Searcher.git
