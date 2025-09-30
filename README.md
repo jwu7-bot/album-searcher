@@ -27,7 +27,7 @@ A simple React app that allows users to search for albums and their details from
 ### Clone the repository
 
 ```bash
-git clone https://github.com/jwu7-bot/album_searcher.git
+git clone https://github.com/jwu7-bot/album-searcher.git
 ```
 
 ### Install dependencies
