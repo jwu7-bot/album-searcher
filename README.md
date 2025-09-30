@@ -1,5 +1,3 @@
-Github Pages: https://jwu7-bot.github.io/album-searcher
-
 # Album Searcher React App
 
 A simple React app that allows users to search for albums and their details from the Last.fm API. The app uses environment variables to store the API key and fetches album data based on a search term.
